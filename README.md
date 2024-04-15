@@ -1,5 +1,7 @@
 Handwritten Digit Recognition with Neural Networks
+
 Overview
+
 The neural network we trained specializes in recognizing handwritten digits. It assesses its proficiency in identifying digits from 0 to 9 by analyzing the pixel values of input images.
 
 Training Phase
